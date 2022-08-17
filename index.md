@@ -10,15 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Project 1 (Driver Drowsinesss detection)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This projects simply detects open/closed eyes of a person who is driving a vehicle and makes a sound if the person's eyes are closed for prolonged periods of time
 
-## Header 2
+# Case Study (Lending Club)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Case study is on going, will update once i am done doiung basic analysis of given data
 
 ### Header 3
 
